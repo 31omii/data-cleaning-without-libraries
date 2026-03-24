@@ -1,0 +1,516 @@
+{
+    "players": [
+        {
+            "id": 4,
+            "name": "Zlatan Ibrahimovic_1",
+            "teammates": [
+                66,
+                37,
+                14,
+                49,
+                63
+            ],
+            "liked_clubs": [
+                204
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 5,
+            "name": "Kylian Mbappe_1",
+            "teammates": [
+                11,
+                62,
+                7
+            ],
+            "liked_clubs": [
+                205
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 7,
+            "name": "Harry Kane_1",
+            "teammates": [],
+            "liked_clubs": [
+                207
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Erling Haaland_1",
+            "teammates": [
+                2,
+                68,
+                13,
+                62
+            ],
+            "liked_clubs": [
+                210
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 12,
+            "name": "Lionel Messi_2",
+            "teammates": [],
+            "liked_clubs": [
+                202
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Neymar Jr_2",
+            "teammates": [],
+            "liked_clubs": [
+                203
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kylian Mbappe_2",
+            "teammates": [
+                42,
+                21
+            ],
+            "liked_clubs": [
+                205
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 20,
+            "name": "Erling Haaland_2",
+            "teammates": [
+                68,
+                17,
+                30,
+                62,
+                31
+            ],
+            "liked_clubs": [
+                210
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 21,
+            "name": "Cristiano Ronaldo_3",
+            "teammates": [
+                8,
+                43
+            ],
+            "liked_clubs": [
+                201
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 23,
+            "name": "Neymar Jr_3",
+            "teammates": [],
+            "liked_clubs": [
+                203
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Zlatan Ibrahimovic_3",
+            "teammates": [],
+            "liked_clubs": [
+                204
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Kylian Mbappe_3",
+            "teammates": [],
+            "liked_clubs": [
+                205
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Mohamed Salah_3",
+            "teammates": [
+                20,
+                39
+            ],
+            "liked_clubs": [
+                206
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 28,
+            "name": "Robert Lewandowski_3",
+            "teammates": [],
+            "liked_clubs": [
+                208
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Eden Hazard_3",
+            "teammates": [],
+            "liked_clubs": [
+                209
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Erling Haaland_3",
+            "teammates": [],
+            "liked_clubs": [
+                210
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Lionel Messi_4",
+            "teammates": [
+                65,
+                11,
+                68,
+                14
+            ],
+            "liked_clubs": [
+                202
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 34,
+            "name": "Zlatan Ibrahimovic_4",
+            "teammates": [
+                50,
+                66,
+                14,
+                63
+            ],
+            "liked_clubs": [
+                204
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 36,
+            "name": "Mohamed Salah_4",
+            "teammates": [
+                41,
+                34,
+                19,
+                22
+            ],
+            "liked_clubs": [
+                206
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 37,
+            "name": "Harry Kane_4",
+            "teammates": [
+                32,
+                67,
+                40,
+                10,
+                28
+            ],
+            "liked_clubs": [
+                207
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 38,
+            "name": "Robert Lewandowski_4",
+            "teammates": [],
+            "liked_clubs": [
+                208
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Eden Hazard_4",
+            "teammates": [],
+            "liked_clubs": [
+                209
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Erling Haaland_4",
+            "teammates": [
+                13,
+                16,
+                22,
+                29,
+                30
+            ],
+            "liked_clubs": [
+                210
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 41,
+            "name": "Cristiano Ronaldo_5",
+            "teammates": [],
+            "liked_clubs": [
+                201
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Neymar Jr_5",
+            "teammates": [
+                48,
+                9,
+                47
+            ],
+            "liked_clubs": [
+                203
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 48,
+            "name": "Robert Lewandowski_5",
+            "teammates": [],
+            "liked_clubs": [
+                208
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Eden Hazard_5",
+            "teammates": [
+                16,
+                33,
+                35,
+                45
+            ],
+            "liked_clubs": [
+                209
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 50,
+            "name": "Erling Haaland_5",
+            "teammates": [
+                34,
+                19,
+                31
+            ],
+            "liked_clubs": [
+                210
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 51,
+            "name": "Cristiano Ronaldo_6",
+            "teammates": [],
+            "liked_clubs": [
+                201
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Lionel Messi_6",
+            "teammates": [
+                5,
+                13,
+                38,
+                15
+            ],
+            "liked_clubs": [
+                202
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 53,
+            "name": "Neymar Jr_6",
+            "teammates": [
+                26,
+                59
+            ],
+            "liked_clubs": [
+                203
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 54,
+            "name": "Zlatan Ibrahimovic_6",
+            "teammates": [],
+            "liked_clubs": [
+                204
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Harry Kane_6",
+            "teammates": [],
+            "liked_clubs": [
+                207
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Robert Lewandowski_6",
+            "teammates": [
+                37,
+                38
+            ],
+            "liked_clubs": [
+                208
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 59,
+            "name": "Eden Hazard_6",
+            "teammates": [],
+            "liked_clubs": [
+                209
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Erling Haaland_6",
+            "teammates": [],
+            "liked_clubs": [
+                210
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Lionel Messi_7",
+            "teammates": [],
+            "liked_clubs": [
+                202
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Neymar Jr_7",
+            "teammates": [],
+            "liked_clubs": [
+                203
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Zlatan Ibrahimovic_7",
+            "teammates": [],
+            "liked_clubs": [
+                204
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Kylian Mbappe_7",
+            "teammates": [
+                66,
+                36,
+                40,
+                19,
+                26
+            ],
+            "liked_clubs": [
+                205
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 66,
+            "name": "Mohamed Salah_7",
+            "teammates": [
+                26,
+                12,
+                38
+            ],
+            "liked_clubs": [
+                206
+            ],
+            "followed_clubs": null
+        },
+        {
+            "id": 67,
+            "name": "Harry Kane_7",
+            "teammates": [],
+            "liked_clubs": [
+                207
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Robert Lewandowski_7",
+            "teammates": [],
+            "liked_clubs": [
+                208
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Eden Hazard_7",
+            "teammates": [
+                65,
+                7,
+                41,
+                43,
+                31
+            ],
+            "liked_clubs": [
+                209
+            ],
+            "followed_clubs": null
+        }
+    ],
+    "clubs": [
+        {
+            "id": 201,
+            "name": "Real Madrid"
+        },
+        {
+            "id": 202,
+            "name": "FC Barcelona"
+        },
+        {
+            "id": 203,
+            "name": "Santos"
+        },
+        {
+            "id": 204,
+            "name": "AC Milan"
+        },
+        {
+            "id": 205,
+            "name": "Paris Saint Germain"
+        },
+        {
+            "id": 206,
+            "name": "Liverpool"
+        },
+        {
+            "id": 207,
+            "name": "Bayern Munich"
+        },
+        {
+            "id": 208,
+            "name": "Borussia Dortmund"
+        },
+        {
+            "id": 209,
+            "name": "Chelsea"
+        },
+        {
+            "id": 210,
+            "name": "Manchester City"
+        }
+    ]
+}
